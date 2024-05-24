@@ -5,7 +5,7 @@
     
     --==Parts List==--
     TENSTAR ROBOT ESP32 C3 Supermicro
-    320 x 170 ST7789 1.9" LCD Display Module
+    320x170 ST7789 1.9" LCD Display Module
     NEO-6M GPS Reciever Module + GPS Antenna
     
     --==Pin Definitions==--
